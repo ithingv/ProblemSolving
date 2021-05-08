@@ -1,4 +1,4 @@
-#Silver IV 11866	요세푸스 문제 0 ESSENTIAL	
+#Silver 4 11866	요세푸스 문제 0 ESSENTIAL	
 
 N, K = map(int, input().split())
 

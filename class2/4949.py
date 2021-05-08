@@ -1,4 +1,4 @@
-#Silver IV 4949	균형잡힌 세상	
+#Silver 4 균형잡힌 세상	
 
 while True:
     

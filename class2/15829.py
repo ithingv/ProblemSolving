@@ -1,3 +1,5 @@
+# 브론즈 2 Hashing
+
 L = int(input())
 word = input()
 res = 0

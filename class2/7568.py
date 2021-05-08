@@ -1,4 +1,4 @@
-#Silver V 7568	덩치	
+#Silver 5 덩치	
 
 N = int(input())
 

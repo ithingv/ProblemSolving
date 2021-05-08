@@ -1,4 +1,4 @@
-#Silver IV 9012	괄호 ESSENTIAL	
+#Silver 4 괄호 ESSENTIAL	
 
 N = int(input())
 i = 0

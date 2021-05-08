@@ -1,3 +1,5 @@
+# 브론즈 2 부녀회장이 될테야
+
 def get_num_people(k, n):
     
     arr = [[0] * n for _ in range(k + 1)]

@@ -1,4 +1,4 @@
-#Silver IV 10845	큐 ESSENTIAL	
+#Silver 4 10845	큐 ESSENTIAL	
 import sys
 
 N = int(input())

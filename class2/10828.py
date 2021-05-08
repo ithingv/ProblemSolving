@@ -1,4 +1,4 @@
-#Silver IV 10828	스택 ESSENTIAL	
+#Silver 4 10828	스택 ESSENTIAL	
 
 import sys
 

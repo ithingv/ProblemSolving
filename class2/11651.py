@@ -1,4 +1,4 @@
-#Silver V 11651	좌표 정렬하기 2	
+#Silver 5 11651	좌표 정렬하기 2	
 
 N = int(input())
 arr = []

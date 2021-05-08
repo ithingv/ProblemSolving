@@ -1,4 +1,4 @@
-#Bronze III 10250	ACM 호텔 ESSENTIAL	
+#Bronze 3 ACM 호텔 ESSENTIAL	
 T = int(input())
 i = 0
 while i < T:

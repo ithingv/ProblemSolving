@@ -1,3 +1,5 @@
+# 브론즈 3 직각삼각형
+
 while True:
     
     arr = list(map(int, input().split()))    

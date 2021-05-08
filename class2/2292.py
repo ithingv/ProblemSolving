@@ -1,3 +1,5 @@
+# 브론즈 2 벌집
+
 def shortest_dist(num):
     curr_val = 2
     res = 0

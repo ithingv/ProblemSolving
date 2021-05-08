@@ -1,3 +1,5 @@
+# 브론즈 1 설탕 배달
+
 def sugar_delivery(N):
     res = []
     Y = 0

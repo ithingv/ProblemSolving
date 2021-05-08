@@ -1,4 +1,4 @@
-#Silver IV 10866	덱 ESSENTIAL	
+#Silver 4 10866	덱 ESSENTIAL	
 
 import sys
 from collections import deque

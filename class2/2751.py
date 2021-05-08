@@ -1,3 +1,5 @@
+# 실버 5 수 정렬하기
+
 import sys
 N = int(sys.stdin.readline())
 

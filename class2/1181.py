@@ -1,3 +1,5 @@
+# 실버 5 단어 정렬
+
 N = int(input())
 word_list = []
 i = 0
