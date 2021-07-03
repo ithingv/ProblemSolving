@@ -10,4 +10,4 @@ for i in range(N):
     else:
       print(0)
   else:
-    heapq.heappush(heap, [abs(num), num]) # 절댓값 처리해 작은 값부터 힙에 넣는다.(우선순위, 값)
+    heapq.heappush(heap, [abs(num), num]) # 절댓값 처리해 작은 값부터 힙에 넣는다
