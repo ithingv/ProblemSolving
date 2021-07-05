@@ -1,4 +1,3 @@
-#11727
 import sys
 
 num = int(sys.stdin.readline())
