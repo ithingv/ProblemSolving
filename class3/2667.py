@@ -16,7 +16,7 @@ for i in range(n):
 dx = [-1, 1, 0, 0]
 dy = [0, 0, 1, -1]
 
-# DFS 함수 정의
+# DFS 정의
 def dfs(x, y, c):
     visited[x][y] = 1   # 방문 여부 표시
     global nums            # 아파트 단지 수를 세기위한 변수
