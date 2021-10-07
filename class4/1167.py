@@ -10,7 +10,6 @@ for _ in range(V):
     for e in range(1, len(c) - 2, 2):
         graph[c[0]].append((c[e], c[e + 1]))
 
-
 def bfs(start):
     visit = [-1] * (V + 1)
     que = deque()
@@ -28,7 +27,6 @@ def bfs(start):
                     _max = visit[e], e
 
     return _max
-
 
 dis, node = bfs(1)
 dis, node = bfs(node)
