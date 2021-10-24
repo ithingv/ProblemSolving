@@ -1,1 +1,1 @@
-# CLASS2
+# Class 2
