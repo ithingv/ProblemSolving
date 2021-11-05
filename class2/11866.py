@@ -1,7 +1,6 @@
 #Silver 4 11866	요세푸스 문제 0 ESSENTIAL	
 
 N, K = map(int, input().split())
-
 arr = [ i for i in range(1, N+1)]
 x_cnt = 0
 curr_pos = 0
