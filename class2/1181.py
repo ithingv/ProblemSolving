@@ -10,7 +10,6 @@ while i < N:
     i += 1
 
 word_list = list(set(word_list))
-
 word_list.sort(key=lambda word : (word[1], word[0]))
 
 for word in word_list:
