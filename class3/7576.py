@@ -25,11 +25,11 @@ dy = [0, 1, 0, -1]
 for i in range(n):
     for j in range(m):
         if graph[i][j] == 1:
-            queue.append((i, j))    # extract ripen tomatoes(value = 1)
+            queue.append((i, j))
  
-result = bfs()    # execute bfs ripen tomatoes at the same time
+result = bfs()
 print(result)
-if True in map(lambda x: 0 in x, result):    # not all ripen tomatoes
+if True in map(lambda x: 0 in x, result):
     print(-1)
-else:    # all ripen tomatoes or minimum days of ripen tomatoes
+else:
     print(max(map(max, result))-1)
