@@ -11,7 +11,6 @@ while i < N:
     valid = True
     
     while j < len(sentence):
-    
         curr_char = sentence[j]
         
         if curr_char == '(': 
