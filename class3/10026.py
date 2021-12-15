@@ -42,4 +42,5 @@ for i in range(N):
         if check[i][j] == 0:
             bfs(i, j)
             cnt += 1
-print(cnt)          
+print(cnt)
+          
