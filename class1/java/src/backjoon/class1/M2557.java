@@ -1,9 +1,7 @@
 package backjoon.class1;
 
-public class B1000 {
-
+public class M2557 {
     public static void main(String[] args) {
-        System.out.println();
+        System.out.println("Hello World!");
     }
 }
-
