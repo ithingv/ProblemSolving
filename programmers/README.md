@@ -53,6 +53,7 @@
 |48|평균 구하기|수학|1|<a href="">python</a> |
 |49|여행경로|BFS/DFS|3|<a href="여행경로.ipynb">python</a> |
 |50|섬 연결하기|그래프|3|<a href="섬 연결하기.ipynb">python</a>|
+|51|가장 먼 노드|그래프|3|<a href="가장 먼 노드.ipynb">python</a>|
 
 
 
